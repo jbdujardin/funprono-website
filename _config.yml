@@ -41,33 +41,33 @@ features:
     description: Guess the score of each match?
     fontawesome_icon_name: futbol
 
-  - title: Video Support
-    description: Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name: play-circle
+  - title: Compare your predictions
+    description: During the matches, check your friends' predictions and the number of points collected.
+    fontawesome_icon_name: eye
 
-  - title: Automatic Icon and Metadata
-    description: Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name: sync
-
-  - title: Easy to Tweak
-    description: Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: adjust
-
-  - title: Feature List
-    description: Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title: Correct score bonus
+    description: If you find the exact score of the match your points are doubled!
     fontawesome_icon_name: star
 
-  - title: Smart App Banner
-    description: Display a smart app banner on iOS devices.
-    fontawesome_icon_name: arrow-alt-circle-down
+  - title: Chat with your friends
+    description: All members of your league can chat with each other, so don't hesitate to tease each other when you guess the exact score!
+    fontawesome_icon_name: comment-dots
 
-  - title: Social Links
-    description: Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: link
+  - title: Detailed statistics
+    description: You can also view all your prediction statistics to see how you're improving.
+    fontawesome_icon_name: chart-line
 
-  - title: FontAwesome Support
-    description: Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name: info-circle
+  - title: # Smart App Banner
+    description: # Display a smart app banner on iOS devices.
+    fontawesome_icon_name: # arrow-alt-circle-down
+
+  - title: # Social Links
+    description: # Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name: # link
+
+  - title: # FontAwesome Support
+    description: # Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name: # info-circle
 
   - title: # New Feature Title
     description: # New Feature Description
@@ -78,7 +78,7 @@ topbar_color: "#000000"
 topbar_transparency: 0.1
 topbar_title_color: "#ffffff"
 
-cover_image: assets/headerimage.png # Replace with alternative image path or image URL.
+cover_image: assets/headerimage.jpg # Replace with alternative image path or image URL.
 cover_overlay_color: "#363b3d"
 cover_overlay_transparency: 0.2
 
@@ -95,7 +95,7 @@ app_description_color: "#ffffff"
 feature_title_color: "#000000"
 feature_text_color: "#666666"
 
-feature_icons_foreground_color: "#1d63ea"
+feature_icons_foreground_color: "#2fd094"
 feature_icons_background_color: "#e6e6e6"
 
 social_icons_foreground_color: "#666666"
